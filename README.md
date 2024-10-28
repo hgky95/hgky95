@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Gia Ky Huynh
 
-With 5 years of experience in software engineering, I specialize in backend development and have a passion for emerging technologies.
+With 6 years of experience in software engineering, I specialize in backend development and have a passion for emerging technologies.
 
 ### 🚀 What I Do
 
@@ -17,6 +17,6 @@ With 5 years of experience in software engineering, I specialize in backend deve
 ### 🎯 𝗦𝗸𝗶𝗹𝗹𝘀:
 - Languages: Java, Python, Nodejs, Solidity, TypeScript
 - Frameworks & Libraries: Spring Boot, Flask, Foundry, Hardhat, Nextjs, Web3.js, Ethers.js
-- DevOps: Docker, Docker-compose, Kubernetes Observability: Prometheus, Grafana, OpenTelemetry
+- DevOps: AWS, CI/CD, Docker, Docker-compose, Kubernetes Observability: Prometheus, Grafana, OpenTelemetry
 
 Check out my projects below! 👇
